@@ -1,0 +1,2 @@
+# Kalkulacka
+Moje první appka
